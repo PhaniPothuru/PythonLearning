@@ -1,0 +1,11 @@
+#This is my First Program
+print(' Hey Welcome to python Learning !!!!! ')
+print(' Please Enter your Name Man :::')
+myName = input() #Asking the name of a person and storing the input into a variable
+print(' It was nice Meeting you , Mr.'+myName)
+print(' The Length of your Name is :')
+print(len(myName))
+print(' How old are you ?')
+myAge= input()
+print('You will be ' + str(int(myAge)+1) + ' next year')
+      
